@@ -50,9 +50,3 @@ The book is organized into two main sections:
 We welcome feedback and suggestions for future editions. If you find any discrepancies or have additional information that could enhance the comprehensiveness of this book, please reach out to us.
 
 Thank you for choosing this book as your resource on Double Taxation Avoidance Agreements. We hope it serves as a valuable tool in your studies and professional endeavors.
-
-**Author: [Your Name]**
-
-**Publisher: [Your Publisher]**
-
-**Date: [Publication Date]**
